@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Site hosted at
+https://keith-draggable-kanban-board.netlify.app/
